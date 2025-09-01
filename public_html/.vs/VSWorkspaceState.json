@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\wp-content",
+    "\\wp-content\\plugins",
+    "\\wp-content\\plugins\\wordpress-seo",
+    "\\wp-content\\plugins\\wpforms-lite",
+    "\\wp-content\\plugins\\youtube-embed-plus",
+    "\\wp-content\\themes"
+  ],
+  "PreviewInSolutionExplorer": false
+}
